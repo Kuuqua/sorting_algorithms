@@ -1,7 +1,5 @@
 #include "sort.h"
 
-#include "sort.h"
-
 /**
  * get_digit - gets a digit from a number
  * @number: the integer
